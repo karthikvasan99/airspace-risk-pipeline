@@ -56,5 +56,5 @@ Navigate to `http://localhost:8501` to view the live radar.
 ## 👨‍💻 About the Author
 **Karthik Srinivasan**
 *PhD Candidate in Biomedical Engineering | Former Scale AI Intern*
-- [Personal Website](https://your-website.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Personal Website](https://karthikvasan99.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/karthikvasan99/)
